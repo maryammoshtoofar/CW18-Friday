@@ -1,0 +1,16 @@
+th,
+td {
+  vertical-align: middle;
+  text-align: center;
+}
+.myTable {
+  width: 90% !important;
+  margin: 50px auto;
+  font-size: 12px;
+}
+.loading{
+  position: absolute;
+  top:70%;
+  left:50%;
+  display: none;
+}
